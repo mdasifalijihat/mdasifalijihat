@@ -1,10 +1,15 @@
 🧑‍💻 About Me
 
 👨‍💻 I'm MD Asif Ali Jihat, a passionate Front-End Developer with a creative eye and a love for clean, responsive design.
+
 ⚛️ I specialize in building user-first web interfaces using React.js, Tailwind CSS, DaisyUI, and JavaScript.
+
 🧠 Fueled by curiosity, I enjoy turning ideas into meaningful digital experiences.
+
 🎯 I believe great design is not just how it looks — but how smoothly it works.
+
 🤝 I'm open to learning, collaborating, and building helpful, real-world products.
+
 🌟 Friendly by nature, focused by choice — I code with care and clarity.
 
 
