@@ -1,5 +1,10 @@
-# 💫 About Me:
-🎯 I’m currently working on:  <br>→ A career and delivery platform using React, Tailwind, and Firebase.<br><br>🤝 I’m looking to collaborate on:  <br>→ Front-end web apps, open-source projects, or anything built with React & Tailwind CSS.<br><br>🙋‍♂️ I’m looking for help with:  <br>→ Improving UI/UX and working with backend APIs.<br><br>🌱 I’m currently learning:  <br>→ Firebase Auth, JWT, and advanced React patterns.<br><br>💬 Ask me about:  <br>→ React.js, JavaScript, Tailwind CSS, DaisyUI.<br><br>⚡ Fun fact:  <br>→ I write cleaner code when I listen to lofi beats!<br>
+🧑‍💻 About Me
+👨‍💻 I'm MD Asif Ali Jihat, a passionate Front-End Developer with a creative eye and a love for clean, responsive design.
+⚛️ I specialize in building user-first web interfaces using React.js, Tailwind CSS, DaisyUI, and JavaScript.
+🧠 Fueled by curiosity, I enjoy turning ideas into meaningful digital experiences.
+🎯 I believe great design is not just how it looks — but how smoothly it works.
+🤝 I'm open to learning, collaborating, and building helpful, real-world products.
+🌟 Friendly by nature, focused by choice — I code with care and clarity.
 
 
 ## 🌐 Socials:
