@@ -1,3 +1,5 @@
+<img src="https://github.com/mdasifalijihat/mdasifalijihat/blob/main/img.jpg">
+
 🧑‍💻 About Me
 
 👨‍💻 I'm MD Asif Ali Jihat, a passionate Front-End Developer with a creative eye and a love for clean, responsive design.
