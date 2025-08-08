@@ -1,4 +1,8 @@
+<p align="center">
 <img src="https://github.com/mdasifalijihat/mdasifalijihat/blob/main/img.jpg">
+</p>
+<h1 align="center">Hi 👋, I'm Md Asif Ali Jihat</h1>
+<h3 align="center">MERN Stack Developer | Frontend Developer</h3>
 
 🧑‍💻 About Me
 
@@ -24,3 +28,4 @@
 [![](https://visitcount.itsvg.in/api?id=mdasifalijihat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
