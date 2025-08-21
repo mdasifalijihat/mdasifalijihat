@@ -24,7 +24,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-asif-ali-jihat-976281217/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdasifalijihat)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdasifalijihat@gmail.com)
-📱 WhatsApp: [Click to Chat](https://wa.me/8801716673324)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801716673324)
+
 
 ---
 
@@ -50,5 +51,6 @@
 [![](https://visitcount.itsvg.in/api?id=mdasifalijihat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Created with ❤️ by Md Asif Ali Jihat -->
+
 
 
