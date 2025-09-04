@@ -11,13 +11,9 @@
 
 ⚛️ Skilled in **React.js**, **Tailwind CSS**, **DaisyUI**, and **JavaScript**, I specialize in crafting intuitive, modern UIs with a focus on smooth performance and accessibility.  
 
-💡 With a curiosity-driven mindset, I enjoy transforming ideas into meaningful digital solutions that not only look great but also work seamlessly.  
-
-🤝 I value collaboration, continuous learning, and building impactful real-world products that help people.  
-
+💡 With a curiosity-driven mindset, I enjoy transforming ideas into meaningful digital solutions that not only look great but also work seamlessly.
+🤝 I value collaboration, continuous learning, and building impactful real-world products that help people.
 🌟 Friendly by nature, focused by choice — I code with care, creativity, and clarity.  
-
----
 
 ## 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/mdasifalijihat9) 
@@ -52,6 +48,7 @@
 [![](https://visitcount.itsvg.in/api?id=mdasifalijihat&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Created with ❤️ by Md Asif Ali Jihat -->
+
 
 
 
