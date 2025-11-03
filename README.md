@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md Asif Ali Jihat</h1>
-<h3 align="center">💻 MERN Stack Developer </h3>
+<h3 align="center">💻 MERN Stack Developer | 🎨 Frontend Developer</h3>
 
 ---
 
 ## 🧑‍💻 About Me
-👋 Hi! I'm **Md Asif Ali Jihat**, a passionate **MERN Stack Developer**.  
+👋 Hi! I'm **Md Asif Ali Jihat**, a passionate **MERN Stack Developer** & **Frontend Developer**.  
 I create clean, responsive, and user-friendly web experiences.  
 
 - ⚛️ Skilled in **React.js**, **Tailwind CSS**, **DaisyUI**, **JavaScript**, **TypeScript**.  
